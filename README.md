@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neha Turamari
 
-**Business Intelligence Developer | SAP BO | Power BI | SQL | Oracle**
+**Business Intelligence Developer | SAP BO | Power BI | SQL |**
 
 ---
 
@@ -30,8 +30,8 @@ Experienced Business Intelligence (BI) Developer specializing in SAP BusinessObj
 
 ### 📬 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn] (https://www.linkedin.com/in/neha-turamari-0643201b9)
+- [Email](mailto:nehaturamari@gmail.com)
 
 ---
 
